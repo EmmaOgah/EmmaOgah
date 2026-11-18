@@ -1,6 +1,13 @@
 
 # Hi, I'm Emmanuel Ogah 👋
 
+## 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-1E90FF?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-228B22?style=for-the-badge)
+
 🎓 Computer Engineering Graduate | Data Science | AI | Machine Learning
 
 I am a Computer Engineering graduate passionate about Data Science, Artificial Intelligence, and Machine Learning. I use Python to explore data, build predictive models, and develop intelligent solutions to real-world problems.
