@@ -32,12 +32,21 @@ I am continuously learning, building practical projects, and improving my techni
 - Classification
 - Artificial Intelligence
 
-## 🚀 Projects
 
-- AI Chatbot for Customer Service
-- Spam Email Detection System
-- Real Estate Price Prediction
-- Customer Churn Prediction
+## 🚀 My Projects
+
+### 1. AI Chatbot for Customer Service
+An AI-powered chatbot designed to assist customers by responding to enquiries and providing automated support.
+
+### 2. Spam Email Detector
+A machine learning project designed to identify and classify spam and legitimate emails.
+
+### 3. Real Estate Price Predictor
+A predictive machine learning model designed to estimate property prices using relevant housing features.
+
+### 4. Customer Churn Prediction
+A machine learning project focused on analysing customer data and predicting the likelihood of customer churn.
+
 
 ## 📚 Currently
 
